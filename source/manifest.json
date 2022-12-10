@@ -1,12 +1,14 @@
 {
-    "manifest_version": 2,
-   
-    "name": "Woofle's csTimer Restyle",
-    "version": "0.1.0",
-    "description": "Personal restyling of csTimer by Sebastian Amador.",
-   
-    "content_scripts": [{
-      "css": ["styles.css"],
-      "matches": ["https://*.cstimer.net/*", "http://*.cstimer.net/*"]
-    }]
+  "manifest_version": 2,
+
+  "name": "Woofle's csTimer Restyle",
+  "description": "Personal restyling of csTimer by Sebastian Amador.",
+  "version": "0.1.0",
+
+  "permissions": ["tabs"],
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://*.cstimer.net/*", "http://*.cstimer.net/*"]
+  }]
 }
