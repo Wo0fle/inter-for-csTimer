@@ -8,7 +8,7 @@
   "permissions": ["tabs"],
 
   "content_scripts": [{
-    "css": ["styles.css"],
+    "css": ["style.css"],
     "matches": ["https://*.cstimer.net/*", "http://*.cstimer.net/*"]
   }]
 }
