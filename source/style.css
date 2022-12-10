@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-body {
+html, #lcd, #avgstr, .myButton, #leftbar div span, #stats, #scrambleDiv nobr, #scrambleTxt, #toolsDiv, .popup, .dialog .tab {
     font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
 }
+
+/* this came pretty much from https://github.com/backus/cstimer-makeover/blob/master/src/styles.sass */
