@@ -1,3 +1,0 @@
-"js": ["content.js"]
-
-add under "content scripts"
