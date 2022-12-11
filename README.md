@@ -1,5 +1,5 @@
-# Woofle's csTimer Restyle
+# Inter font for [csTimer](https://cstimer.net)
 
-Personal restyling of csTimer by Sebastian Amador.
+Changes text fonts in csTimer to Inter, as well as making some barely-noticable style changes.
 
-Idea came from [cstimer-makeover](https://github.com/backus/cstimer-makeover).
+Locations for where I changed fonts to Inter came partly from John Backus' [cstimer-makeover](https://github.com/backus/cstimer-makeover).
