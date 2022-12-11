@@ -1,6 +1,6 @@
 # Inter font for [csTimer](https://cstimer.net)
 
-![icon](./source/icon.png)
+![icon](./source/images/icon.png)
 
 An extension that changes text fonts in csTimer to Inter, as well as making some barely-noticable style changes.
 
