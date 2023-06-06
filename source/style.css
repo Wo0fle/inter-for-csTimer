@@ -1,11 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
-html, span, td, input, #lcd, #avgstr span, #leftbar .mybutton div span:not(.icon), #stats, select, #scrambleDiv nobr, #scrambleTxt, #toolsDiv, #toolsDiv div, #toolsDiv div div, .popup, .dialog.dialogcfm div, .dialog.dialogoption div, .dialog.dialogstats div, .dialog.dialogexport div, .dialog.dialoglogo div, .dialog.dialogssmgr div, .dialog div, textarea {
-    font-family: 'Inter';
-}
-
-#toolsDiv div div {
-	font-family: 'Inter' !important; 
+html, body, span:not(.icon), td, input:not(.icon), #lcd, #avgstr span, #leftbar .mybutton div span:not(.icon), #stats, select, #scrambleDiv nobr, #scrambleTxt, #toolsDiv, #toolsDiv div, #toolsDiv div div, .popup, .dialog.dialogcfm div, .dialog.dialogoption div, .dialog.dialogstats div, .dialog.dialogexport div, .dialog.dialoglogo div, .dialog.dialogssmgr div, .dialog div, textarea {
+    font-family: 'Inter' !important;
 }
 
 #toolsDiv select , #stats select {
@@ -26,7 +22,7 @@ html, span, td, input, #lcd, #avgstr span, #leftbar .mybutton div span:not(.icon
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: rgb(205, 205, 205);
+    background: rgb(225, 225, 225);
 }
 
 /* credit for where to put font-family goes partly to https://github.com/backus/cstimer-makeover */
