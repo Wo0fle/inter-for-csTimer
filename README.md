@@ -10,12 +10,12 @@ This extension is not on any web stores, so if you would like to use this extens
 
 # Before
 
-![icon](./source/images/before.png)
+![icon](./images/before.png)
 
 # After
 
-![icon](./source/images/after.png)
+![icon](./images/after.png)
 
 # Here's what my csTimer looks like after using this extension!
 
-![icon](./source/images/my_csTimer.png)
+![icon](./images/my_csTimer.png)
