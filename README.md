@@ -15,7 +15,3 @@ This extension is not on any web stores, so if you would like to use this extens
 # After
 
 ![icon](./images/after.png)
-
-# Here's what my csTimer looks like after using this extension!
-
-![icon](./images/my_csTimer.png)
